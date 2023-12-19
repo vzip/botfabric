@@ -1,0 +1,7 @@
+user_send: promt，{prompt}
+
+voice: en-US-AnaNeural
+
+system: Find key 'message' extract and and give me back only body string of it. If text have not key 'message', return my message, without any change only at the end add key 'zip'.
+
+assistant: 'Message': 'Have a nice day!'

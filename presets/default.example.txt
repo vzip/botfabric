@@ -1,0 +1,5 @@
+system: System prompt word. The text here will accompany the entire conversation.
+
+user: Messages sent by users. The message here is forgotten as the conversation gets longer.
+
+assistant: Bot's reply. The message here is forgotten as the conversation gets longer. Be careful not to enter on the last line!
