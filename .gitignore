@@ -9,3 +9,4 @@ data/*.json
 Dockerfile.dev
 **/.DS_Store
 venv/
+env/
